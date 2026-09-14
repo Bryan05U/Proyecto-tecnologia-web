@@ -25,16 +25,16 @@ VitrinaSur tiene como objetivo presentar una vitrina digital territorial capaz d
 - CSS3
 
 ## Instalación
-Clonar el repositorio:
+-> Clonar el repositorio:
 git clone https://github.com/Bryan05U/Proyecto-tecnologia-web
 
 Asegurate tener instalado Node.js antes de realizar los siguientes pasos
 
-Ingresar al proyecto:
+-> Ingresar al proyecto:
 cd proyecto-tecnologia-web
 
-Instalar dependencias:
+-> Instalar dependencias:
 npm install
 
-Ejecutar servidor local:
+-> Ejecutar servidor local:
 npm run dev
