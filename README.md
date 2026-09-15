@@ -1,4 +1,5 @@
 # VitrinaSur
+![alt text](image.png)
 
 VitrinaSur es el nombre del proyecto de aplicación web móvil que estará enfocado en facilitar la visibilización y comercialización digital de productos y productores locales de Chiloé
 
