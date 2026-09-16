@@ -1,13 +1,14 @@
 import "./App.css";
+import logo from "./assets/vitrinasur.svg";
 
 function App() {
   return (
     <div className="app">
       {/* Header */}
       <header className="header">
-        <div className="logo">
-          Vitrina<span>Sur</span>
-        </div>
+        <a href="/" className="logo">
+          <img src={logo} alt="VitrinaSur" />
+        </a>
 
         <nav className="nav">
           <a href="#productos">Productos</a>

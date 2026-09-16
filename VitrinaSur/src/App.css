@@ -36,12 +36,14 @@ button {
 }
 
 .logo {
-  font-size: 24px;
-  font-weight: 800;
+  display: flex;
+  align-items: center;
 }
 
-.logo span {
-  font-weight: 400;
+.logo img {
+  display: block;
+  width: 160px;
+  height: auto;
 }
 
 .nav {
@@ -89,11 +91,11 @@ button {
   margin: 0;
   font-size: clamp(38px, 6vw, 64px);
   line-height: 1.05;
+  color: #245447;
 }
 
 .hero h1 span {
   display: block;
-  color: #245447;
 }
 
 .hero-description {
