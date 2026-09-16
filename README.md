@@ -32,7 +32,7 @@ git clone https://github.com/Bryan05U/Proyecto-tecnologia-web
 Asegurate tener instalado Node.js antes de realizar los siguientes pasos
 
 -> Ingresar al proyecto:
-cd proyecto-tecnologia-web
+cd vitrinasur
 
 -> Instalar dependencias:
 npm install
